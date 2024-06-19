@@ -1,4 +1,6 @@
 local Tab={
 	{Username="admin";Password="admin"},
+	{Username="govnoed";Password="556"},
+	{Username="Hitupaboom";Password="norm"},
 }
 return Tab
